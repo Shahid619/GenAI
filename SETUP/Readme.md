@@ -4,7 +4,11 @@ Run Claude Code for **free** using Google Gemini as the backend model via `claud
  
 ---
 
+📋 Prerequisites
 
+Node.js (v18 or higher)
+A Google account
+PowerShell (comes with Windows)
 
 ---
 
